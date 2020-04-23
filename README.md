@@ -1,3 +1,3 @@
 # VBA
 
-Neste repositório, coloquei todos os exercicios em VBA que realizei em sala.
+Neste repositório, coloquei alguns exercicios em VBA que realizei em sala.
